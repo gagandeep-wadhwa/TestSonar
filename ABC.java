@@ -1,5 +1,5 @@
 import com.util.*;
-public class ABC
+public class ABCNew
 {
   const int name;
   String hello;
